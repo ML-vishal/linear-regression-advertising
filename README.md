@@ -1,8 +1,15 @@
 # linear-regression-advertising
 
+## Technologies Used
+- Python
+- pandas, numpy
+- matplotlib, seaborn
+- scikit-learn
+
 # Simple Linear Regression
 
-In this notebook, I have build a linear regression model to predict `Sales` using an appropriate predictor variable.
+This project uses **Linear Regression** to predict sales based on advertising spending across TV, Radio, and Newspaper.
+
 ## Step 1: Reading and Understanding the Data
 
 
@@ -18,4 +25,4 @@ In this notebook, I have build a linear regression model to predict `Sales` usin
 ## Step 5: Predictions on the Test Set
 
 
-## Result = Sales = 6.948 + 0.054* TV 
+### Final Result = Sales = 6.948 + 0.054* TV 
